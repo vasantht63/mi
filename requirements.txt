@@ -1,0 +1,4 @@
+vosk
+websockets
+requests
+soundfile
